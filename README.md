@@ -1,4 +1,4 @@
-### 🛠️ Habilitar Wake-on-LAN en Proxmox VE
+## 🛠️ Habilitar Wake-on-LAN en Proxmox VE
  ### ⚠️ Si su servidor estás detrás de un proxy corporativo, antes de descargar el script tiene que exportar las variables para que pueda salir a internet. Si lo usas con autenticación utilice el siguiente formato:
 **http://user:password@proxy.enterprise.cu:3128**
 
